@@ -1,0 +1,13 @@
+tensorflow
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+boto3
+python-dotenv
+Pillow
